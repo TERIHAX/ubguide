@@ -14,3 +14,9 @@ aHR0cHM6Ly9rZXZpbi5nYW1lcy8=
 ```
 -----------------
 
+
+# h0lyub pr0gcgxy (prn0unze wrd, 0 = o)
+--------------------
+```yaml
+aHR0cHM6Ly95Y3Jndi5vcmcKaHR0cHM6Ly96bHhybHIub3JnCmh0dHBzOi8vb2ZvdG1keG0ub3JnCmh0dHBzOi8vdXh2dnlrYWYub3JnCmh0dHBzOi8venFhZ2lmcS5vcmcKaHR0cHM6Ly9tcmJ4cC5vcmcKaHR0cHM6Ly9kbnN0dGtoLm9yZwpodHRwczovL2Zscm5zZC5vcmcKaHR0cHM6Ly9oZGJ2eGIub3Jn
+```
