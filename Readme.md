@@ -7,7 +7,6 @@ dcrpt urlz and tik za "dcude ich line zeperedly"
 sum ztuff here iz ze prn0uzed, zpell1ng not here
 
 # gms
--------------------
 ```yaml
 aHR0cHM6Ly9yZXBsaXQuY29tL0Bzd29yZGlvL3N3b3JkYmF0dGxlaW8
 aHR0cHM6Ly9zd29yZGJhdHRsZS5jb2RlcmdhdXRhbXl0LnJlcGwuY28v
@@ -20,7 +19,6 @@ aHR0cHM6Ly93d3cuY29vbG1hdGhnYW1lcy5jb20v
 
 
 # h0ly ub pr0gcgxy (prn0unze wrd, 0 = o)
---------------------
 ```yaml
 aHR0cHM6Ly95Y3Jndi5vcmc
 aHR0cHM6Ly96bHhybHIub3Jn
@@ -36,7 +34,6 @@ aHR0cHM6Ly9oZGJ2eGIub3Jn
 
 
 # un1vrzal unblucrz
-----------------
 ```yaml
 aHR0cHM6Ly93d3cubGFtYmRhdGVzdC5jb20v
 aHR0cHM6Ly93d3cuYnJvd3NlcmxpbmcuY29tLw
