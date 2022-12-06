@@ -23,7 +23,7 @@ aHR0cHM6Ly93d3cuY29vbG1hdGhnYW1lcy5jb20v
 -----------------
 
 
-# h0ly ub pr0gcgxy (prn0unze wrd, 0 = o)
+# h0ly ub alt urlz pr0gcgxy (prn0unze wrd, 0 = o)
 ```yaml
 aHR0cHM6Ly95Y3Jndi5vcmc
 aHR0cHM6Ly96bHhybHIub3Jn
@@ -38,11 +38,19 @@ aHR0cHM6Ly9oZGJ2eGIub3Jn
 --------------------
 
 
-# un1vrzal unblucrz
+# uneeeevrzal unblucerz like bllustukz but for za br0wzzzarz
 ```yaml
 aHR0cHM6Ly93d3cubGFtYmRhdGVzdC5jb20v
 aHR0cHM6Ly93d3cuYnJvd3NlcmxpbmcuY29tLw
 ```
 -------------------
+
+# proooggckxy
+```yaml
+aHR0cHM6Ly9ibG9ja2F3YXkubmV0Lw
+aHR0cHM6Ly93d3cucHJveGZyZWUuY29tLw
+aHR0cHM6Ly9pbmNvZy5kZXYv
+aHR0cHM6Ly9ob2x5dWJvZmZpY2lhbC5uZXQv
+```
 
 # IF YOU KNOW YOU KNOW
